@@ -25,7 +25,7 @@ You need to configure the environment variables for JAVA\_HOME
 sudo nano /etc/profile.d/java.sh
 ```
 
-Add the following text to [java.sh](http://java.sh) file and save&#x20;
+Add the following text to [java.sh](http://java.sh) file and save (JAVA\_HOME="your java installation directory which you get from step2")
 
 ```
 #/bin/bash
