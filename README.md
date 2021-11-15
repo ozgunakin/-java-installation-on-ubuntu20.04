@@ -33,5 +33,14 @@ export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
 
 ```
 
+## Step 4 - Test Your Installation
 
+You can test your installation by asking java version to your server.
 
+```
+java --version
+```
+
+The output should be like the following image;
+
+![](.gitbook/assets/image.png)
