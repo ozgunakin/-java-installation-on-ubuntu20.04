@@ -8,7 +8,7 @@ Update the server and install java 11 using Apt package manager
 
 ```
 sudo apt-get update
-Sudo apt-get install openjdk-11-jdk
+sudo apt-get install openjdk-8-jdk
 ```
 
 ## Step 2 - Find JDK Installation Directory
