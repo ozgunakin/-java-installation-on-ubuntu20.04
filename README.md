@@ -4,7 +4,7 @@ This is a guide for Java installation on Ubuntu 20.04
 
 ## Step 1 - Install Java with Apt
 
-Update the server and install java 11 using Apt package manager
+Update the server and install java 8 using Apt package manager
 
 ```
 sudo apt-get update
